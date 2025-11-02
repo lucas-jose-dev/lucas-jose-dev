@@ -9,14 +9,14 @@ Desde então, venho me dedicando ao estudo constante e aprofundando meus conheci
 Sou uma pessoa dedicada, determinada e sempre em busca de evolução. Vejo cada desafio como uma oportunidade de crescimento e estou preparado para contribuir com energia, comprometimento e vontade de aprender.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/lucas-jose-dev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/lucas-jose-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/lucas-jose-dev?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -114,4 +114,3 @@ Sou uma pessoa dedicada, determinada e sempre em busca de evolução. Vejo cada 
   />
 
 </p>
-
