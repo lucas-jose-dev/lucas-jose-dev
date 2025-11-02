@@ -1,4 +1,4 @@
-# 🧑🏾‍💻 Lucas José dev
+# 💻 Lucas José dev
 
 **`Desenvolvedor Front-end`**
 
